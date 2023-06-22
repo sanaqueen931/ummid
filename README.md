@@ -1,2 +1,3 @@
 # ummid
-gpwdatasoftware
+echo "Hi this is my first repositry"
+
